@@ -13,12 +13,12 @@ public class Main {
         //int i;
         int I;
         //int 1a;
-        int _1a;
+        //int _1a;
         int $aq;
 
         i = 5;
         I = 10;
-        _1a = 20;
+        //_1a = 20;
         $aq = 7;
 
         final int j = 10;
@@ -29,7 +29,7 @@ public class Main {
         //int asrn2$46%78_md = 10;
 
         asrn24678md = 100;
-        asrn2$4678_md = 10;
+        //asrn2$4678_md = 10;
 
         int quantidadeProduto = 50;
         //int QuantidadeProduto;
